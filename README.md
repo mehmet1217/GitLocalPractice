@@ -1,4 +1,6 @@
 BATCH 7 LOCAL PRACTICE PROJECT
 ------------------------------
 
-**Test
+Bu Proje Test amaciyla olusturulmustur
+
+Test
